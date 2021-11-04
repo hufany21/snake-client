@@ -16,16 +16,9 @@ const connect = function () {
 
       conn.write("Name: HYY")
       
-      setTimeout(() => {
-        conn.write("Move: up");
-      }, 500);
+      
 
     })
-    
-    
-     
-
-  
   
   
 
